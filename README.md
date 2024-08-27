@@ -8,6 +8,8 @@ See [this page](https://thomaswright.github.io/equal-hue-tailwind-colors) to com
 
 `npm install equal-hue-tailwind-colors`
 
+or just copy the object out of `index.mjs`
+
 ## Use
 
 Use like you would any custom colors in your `tailwind.config.cjs` file.
