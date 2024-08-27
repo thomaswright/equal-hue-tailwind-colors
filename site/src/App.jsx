@@ -35,14 +35,19 @@ function App() {
           Equal Hue Tailwind Colors
         </h1>
 
+        <div className="px-6 pt-4  text-xs ">
+          <div className="font-mono py-2 px-3 bg-plain-800 w-fit rounded">
+            npm install equal-hue-tailwind-colors
+          </div>
+        </div>
         <div
-          className="px-6 pt-6  text-sm"
+          className="px-6 pt-4  text-sm"
           dangerouslySetInnerHTML={{
             __html: marked.parse(aboutText),
           }}
         />
         <div
-          className="px-6 pt-6  text-sm"
+          className="px-6 pt-4  text-sm"
           dangerouslySetInnerHTML={{
             __html: marked.parse(
               "See the [github repo](https://github.com/thomaswright/equal-hue-tailwind-colors) for more information."
