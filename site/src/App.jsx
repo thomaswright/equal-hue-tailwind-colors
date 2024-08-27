@@ -1,4 +1,4 @@
-import colors from "../../index.js";
+import colors from "equal-hue-tailwind-colors";
 import originals from "tailwindcss/colors";
 import { marked } from "marked";
 import { useCopyToClipboard } from "@uidotdev/usehooks";

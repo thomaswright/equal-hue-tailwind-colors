@@ -326,7 +326,7 @@ let main = () => {
 };
 
 fs.writeFile(
-  "./index.js",
+  "./index.mjs",
   "const colors = " + main() + "; export default colors;",
   (err) => {
     if (err) {

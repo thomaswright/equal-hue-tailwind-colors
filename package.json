@@ -1,9 +1,9 @@
 {
   "name": "equal-hue-tailwind-colors",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "homepage": "https://github.com/thomaswright/equal-hue-tailwind-colors",
   "description": "The tailwind color palette modified to have equal hue as determined by the oklab color space",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
