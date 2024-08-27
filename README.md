@@ -6,9 +6,9 @@ See [this page](https://thomaswright.github.io/equal-hue-tailwind-colors) to com
 
 ## Install
 
-`npm install equal-hue-tailwind-colors`
+`npm install equal-hue-tailwind-colors` or just copy the object out of `index.mjs`.
 
-or just copy the object out of `index.mjs`
+There's also a swatch palette available for your design tools - the `equal-hue-tailwind-colors.ase` file.
 
 ## Use
 
