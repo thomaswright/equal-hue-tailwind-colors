@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-import colors from "../index";
+import colors from "equal-hue-tailwind-colors";
 
 module.exports = {
   content: ["./src/**/*.{js,jsx,tsx,ts}"],

@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@uidotdev/usehooks": "^2.4.1",
+    "equal-hue-tailwind-colors": "^1.0.0",
     "marked": "^14.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
